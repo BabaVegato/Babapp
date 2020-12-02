@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338495373726",
+    "firebase_url": "https://babapp-d3fff.firebaseio.com",
+    "project_id": "babapp-d3fff",
+    "storage_bucket": "babapp-d3fff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338495373726:android:e2761a776f23c989ae168f",
+        "android_client_info": {
+          "package_name": "com.babavegato.babapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338495373726-1tq84fohj9muooh1da26u3mfh7g69v1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUhg7DhDBIq6LCVQkKwQHnnjz3eeudE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338495373726-1tq84fohj9muooh1da26u3mfh7g69v1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

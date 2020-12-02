@@ -1,0 +1,130 @@
+{
+    "cards" : 
+    [
+      { 
+        "card" : "tchin tchoun", 
+        "amount" : "3",
+        "regle": "Toi et les deux personnes qui t'entourent disent en même temps soit 'tchin', soit 'tchoun'. Celui qui est minoritaire boit deux gorgées."
+      },
+      { 
+        "card" : "Nouvelle règle", 
+        "amount" : "3",
+        "regle": "Trouvez une nouvelle règle, ceux qui ne l'appliqueront pas boiront."
+      },
+      {
+      "card" : "Bois.", 
+      "amount" : "2",
+      "regle": "1 gorgée. Déso."
+      },
+      {
+      "card" : "Nan mais bois.", 
+      "amount" : "1",
+      "regle": "2 gorgées. Ouais, gratos, comme ça."
+      },
+      { 
+        "card" : "Mot pour mot", 
+        "amount" : "3",
+        "regle": "Trouvez un mot pour en remplacer un autre, ceux qui se tromperont boiront."
+      },
+      { 
+        "card" : "Pose",
+        "regle": "Le dernier à reproduire la pose que tu vas faire (dite à l’avance) se prend 2 gorgées",
+        "amount" : "2"
+      },
+      { 
+        "card" : "Thème", 
+        "amount" : "3",
+        "regle" : "Tout le monde dit au tour par tour un truc d’un domaine (ex : les anime, les pays), celui qui trouve pas ou répète un truc, il boit."
+      },
+      { 
+        "card" : "Halfactuel", 
+        "amount" : "2",
+        "regle" : "Dis un fait que seule la moitié des gens connaissent. Tu bois autant que la différence entre ceux qui savaient, et la moitié."
+      },
+      {
+        "card" : "Antilétariat", 
+        "amount" : "2",
+        "regle": "À 3, lèvent la main ceux qui pensent mériter un bonus. Si personne ne lève la main, tout le monde boit 1 gorgée. Si plusieurs personnes lèvent la main, ils boivent tous deux gorgées. Si une personne lève la main seule, elle gagne le droit, une fois mais quand elle veut, de multiplier par deux ce que doit boire quelqu'un."
+      },
+      {
+        "card" : "Diss trib", 
+        "amount" : "2",
+        "regle": "Distribue entre 1 et 3 gorgées à ceux que tu veux. Tu bois autant que tu distribues."
+      },
+      {
+        "card" : "Grande distrib", 
+        "amount" : "2",
+        "regle": "Choisis entre 1 et 3 personnes qui vont devoir boire 2 gorgées. Tu bois une gorgée par personne désignée"
+      },
+      { 
+        "card" : "Nom", 
+        "amount" : "4",
+        "regle": "Les autres doivent te trouver un nouveau nom. Si ils se trompent, ils boivent."
+      },
+      { 
+        "card" : "1, 2, 3, 4, 5, 6, pouet", 
+        "amount" : "1",
+        "regle": "Chacun, en commençant par 1, dit le nombre qui suit, et doit dire 'pouet' si ce nombre contient 7 ou est multiple de 7"
+      },
+      { 
+        "card" : "1, 2, 3, 4, 5, 6, 7, pouet", 
+        "amount" : "1",
+        "regle": "Chacun, en commençant par 1, dit le nombre qui suit, et doit dire 'pouet' si ce nombre contient 8 ou est multiple de 8"
+      },
+      {
+        "card" : "Immunité", 
+        "amount" : "2",
+        "regle": "Choisis une règle en cours dans le jeu : elle ne s'applique pas à toi. Si quelqu'un te dénonce en oubliant que tu es immunisé, il boit."
+      },
+      { 
+        "card" : "Parle en rimes pendant un tour", 
+        "amount" : "1",
+        "regle": "Je pense que le nom de la carte est assez explicite ..."
+      },
+      { 
+        "card" : "Enreuch", 
+        "amount" : "2",
+        "regle": "Enchère entre 2 personnes (celui qui pioche choisi son adversaire) : celui qui cite en une minute le plus de truc par rapport à un thème imposé par les autres gagne, le perdant boit. Ils doivent dirent un chiffre chacun leur tour jusqu'à l'arrêt de celui qui pense ne pas pouvoir aller plus haut."
+      },
+      {
+        "card" : "Question question", 
+        "amount" : "2",
+        "regle": "Si tu poses une question à quelqu'un et que cette personne ne te répond pas par une question, elle boit."
+      },
+      {
+        "card" : "Le mois ou tu bois", 
+        "amount" : "1",
+        "regle": "Devine le mois de naissance de tout le monde. Si tu trouves, la personne bois."
+      },
+      {
+        "card" : "Sourcyeux", 
+        "amount" : "2",
+        "regle": "Choisis quelqu'un puis immobilise-toi : tu dois faire deviner un mot de ton choix à la personne en ne bougeant QUE les yeux et les sourcils, en un essai. Si la personne se trompe, c'est deux gorgées chacun. Si tu bouges autre chose, c'est 3 gorgées pour toi et toi seul."
+      },
+      {
+        "card" : "Médusa", 
+        "amount" : "2",
+        "regle": "Tout le monde ferme les yeux, et à 3 chacun fixe quelqu'un. Ceux qui fixent la personne qui la fixe boivent une gorgée."
+      },
+      {
+        "card" : "Tchin musical", 
+        "amount" : "1",
+        "regle": "Tu es contre la personne face à toi. Au top, tu dois faire le tour de tout le monde en tchinant leur boisson, pendant que ton adversaire fait pareil. Le dernier à retourner à sa place boit 2 gorgées."
+      },
+      {
+        "card" : "Mémoire des gestes", 
+        "amount" : "1",
+        "regle": "Tu fais un geste, puis montre la personne à ta gauche, qui doit faire ce geste, ajouter un geste, puis montrer la personne à gauche ... ect. Celui qui fait mal la suite de gestes boit 2 gorgées. Durant le jeu, la personne qui dit un mot boit."
+      },
+      {
+        "card" : "Choipeau", 
+        "amount" : "3",
+        "regle": "Fais boire ceux qui ont soit le même âge que toi ou ceux qui ont le même genre que toi. Evidemment, tu les accompagnes."
+      },
+      {
+        "card" : "Battle royale", 
+        "amount" : "1",
+        "regle": "Choisis 3 personnes. Les 3 devront toucher très vite un objet de la couleur désignée. Le dernier est éliminé et bois deux gorgées, et la manche recommence avec le reste, et une nouvelle couleur. Le nouvel éliminé boit deux gorgées."
+      }
+    ]
+}
